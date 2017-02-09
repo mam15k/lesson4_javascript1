@@ -7,7 +7,7 @@ LIS 2360:  Web Application Development
 (Month Day, Year)
 
 ### Student Name:  
-(First and Last Name)
+Maria Mercado
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
